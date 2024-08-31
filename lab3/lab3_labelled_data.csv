@@ -1,0 +1,888 @@
+Text,No of words,No of questoning words,label,question mark
+What is sampling?,3,1,Question,TRUE
+"So suppose you sample a signal at 10 kilohertz, what is the maximum frequency which will be available in the signal?",21,2,Question,TRUE
+So what happens to the signals which are beyond 20 kilowatts?,11,2,Question,TRUE
+"we are sampling a signal at 10 kilohertz. ,the maximum frequency present in this signal is 20 kilohertz.what happens to all those signal components which are beyond 20 kilohertz?",29,2,Question,TRUE
+the input signal is a real signal And I am doing a Fourier transform on it. What kind of signal will be generated from for transfer?,26,1,Question,TRUE
+Conjugate symmetry.Is that what you are saying?,7,1,Question,TRUE
+You will get one complex value or many complex values.?,10,0,Question,TRUE
+you have a signal which is having 50 values. How many complex values will be generated?,16,2,Question,TRUE
+one drawback of Fourier transform?,5,0,Question,1
+What do you mean by non stationary?,7,1,Question,1
+Do you have some parameters to specify?,7,0,Question,1
+we have two events. Event A and event B. OK. And they are independent of each other. OK. So what is the conditional probability of B?,26,1,Question,1
+When can you say 2 vectors to be independent of each other?,12,1,Question,1
+when do you say 2 vectors to be independent? Of each other.,12,1,Question,1
+ I give you 2 vectors. How will you find out whether they are independent or not?,17,2,Question,1
+ What is rank of a matrix?,7,1,Question,1
+Let's say you have an identity matrix of order N. What is the rank of such a matrix?,18,1,Question,1
+when can you have a matrix with rank equal to 0?,11,1,Question,1
+The rank of a matrix will. Be at least one.,10,0,Question,0
+Minimum rank is one?,4,0,Question,1
+You cannot have rank 0.,5,0,Question,0
+Suppose you have a zero matrix. What is the rank of this zero matrix?,14,1,Question,1
+"No, my the matrix is all zeros. What is the rank of such a matrix?",15,1,Question,1
+Then why not? If it is a general matrix of order and why not its? Rank is N.,18,1,Question,1
+How can you say they are independent?,7,1,Question,1
+" between the three subjects.Deep learning, speech processing and NLP.Which subject are you more comfortable with?",16,1,Question,1
+So then let's talk about another bill.,7,0,Question,0
+When do you use a similarity measure?,7,1,Question,1
+How do you use similarity measure for such a situation? Which? You have explained. ,15,2,Question,1
+which kind of similarity measure would you use in this particular scenario?,12,1,Question,1
+ What are the different similarity?Measures do you know? ,10,1,Question,1
+Would you say all words are tokens or would you say all tokens are words?,15,0,Question,1
+Where do you use the concept of independent vectors in text processing? ,13,0,Question,1
+So let's say you have a log document maybe 20 ,11,0,Question,0
+You have a lengthy document.,5,0,Question,0
+Maybe 20 pages?,3,0,Question,1
+"And assuming there are 500 words present in every page.So that's basically amounting to around 10,000 watts. ",18,0,Question,0
+Now you want to find out whether this document is having a positive sentiment or a negative sentiment.,18,1,Question,0
+What would you do to achieve this goal?,8,1,Question,1
+"So let's say you have joined a company and they're asking. You to do this. OK, but your constraint is you cannot use Python because Python is not one of the approved technologies to be used in the company's ecosystem. ",40,0,Question,0
+So what would you do?What technology would you pick? Which programming language would you pick for doing this? ,18,2,Question,1
+Why? ,1,1,Question,1
+In Java and object oriented programming language or it is a non object oriented? ,14,0,Question,1
+"So Hemant, how are you?",5,1,Question,1
+"You heard your friend saying that Java is an object oriented programming language, right?",14,0,Question,1
+Can you give an example of method overloading? ,8,0,Question,1
+What is the limitation or what is the drawback?Of an object oriented programming Language. ,14,1,Question,1
+So if there are no drawbacks.Why are people still using?Low level coding languages like C. ,15,1,Question,1
+Why would you use that information? Why would you want to know that? ,13,1,Question,1
+Are you saying that with Java code you cannot interact with the system? ,13,0,Question,1
+Can you tell me where median is used and mean is not used? ,13,0,Question,1
+Which is computationally easier?,4,1,Question,1
+Why do you say that? ,5,1,Question,1
+"But you don't know whether it is sorted or not, right? ",11,1,Question,1
+And why do you say that? ,6,1,Question,1
+"explain what is the bag of what, Sir? What is a bag of words? Bow in text processing? ",18,1,Question,1
+So you are saying that bag of words basically is? The frequency of words,14,0,Question,1
+Then what is Tom frequency? ,5,1,Question,1
+What is Tom frequency TF? ,5,1,Question,1
+What is the difference between discrete Fourier transform? And. Discrete cosine transform. ,12,1,Question,1
+OK. Is that all? ,4,0,Question,1
+Is that all of their involved? ,6,0,Question,1
+For compressing images?,3,0,Question,1
+OK.So let's say you have you are building a speech processing system. OK. ,13,0,Question,0
+So your job is basically to. Process the incoming speech. And find out. If the color is using any bad words. OK. Negative words. How will you design this system?,30,1,Question,1
+You understand what are sets?,5,1,Question,1
+Suppose the intersection of two sets A&B. OK. And the Union of two sets A&B? ,15,0,Question,1
+You know what is the set? Do you understand what is the? What is the cardinality of a set? ,19,1,Question,1
+The cardinality of a Union B. And a intersection B is same. So what do you tell about these two? Sets A&B. ,22,1,Question,1
+Now suppose the cardinality of a intersection B is 0. What does it tell about sets A&B? ,17,1,Question,1
+what is the difference between dot product and cross product? ,10,1,Question,1
+And we will do dot product for matrices.,8,0,Question,0
+Can you do dot product between any 2 vectors? Or is there some some assumptions? ,15,0,Question,1
+"OK, suppose I give you 1 vector which is 10 dimensional and another vector which is 3 dimensional. You can do a dot product between them. ",27,1,Question,0
+"OK, what about convolution? ",4,1,Question,1
+ When do we use conversation? ,6,1,Question,1
+ let's say speech is your signal. OK. Let's say speech processing is your signal processing activity. You have speeds and you have to process. ,25,0,Question,0
+"In speech processing, can you give an example of convolution? ",10,0,Question,1
+Where in speech processing can you use conversation? ,9,0,Question,1
+What are the MFCC? What is the MFCC? ,8,1,Question,1
+ What are they? ,4,1,Question,1
+How how can you boost the voice low voice to high OS by using MFC? ,15,1,Question,1
+And that you will do with MFCC. ,7,0,Question,0
+You know?,2,0,Question,1
+What is the spectrogram? ,5,1,Question,1
+It's like a graph. Anything else? ,6,0,Question,1
+ What are the different ways we can transform a speech signal into its? Into its spectral domain so that we can analyze the constituent frequency components present in the signal. ,31,1,Question,1
+How can we transform a speech signal? So that we can know which frequency components are present in the signal. ,20,2,Question,1
+I have a speech signal I want to. I'm interested in knowing which frequency components are preserved. How would I know that? ,22,2,Question,1
+What feature extraction? ,3,1,Question,1
+And how do you generate a spectrogram? ,7,1,Question,1
+"All frequency components you will plot with respect to time. OK, how would you first know which frequency components are present? ",21,2,Question,1
+ Can you explain that a little more? ,8,0,Question,1
+ How is amplitude related to frequency? ,7,1,Question,1
+"So you are saying if the signal is high amplitude, it means it is of high frequency, is that right? ",20,0,Question,1
+What the first frequency or amplitude? ,6,1,Question,1
+"OK. But. You related that amplitude is related to frequency, right? ",11,0,Question,1
+So if amplitude is differing from one time window to another time window. Does it imply that the frequency is also changing from one time window to another time window? ,30,0,Question,1
+what is pitch?,3,1,Question,1
+Pitch is related to amplitude or pitch is related to frequency. ,11,0,Question,0
+Pitch Consisting of amplitude and space?. ,6,0,Question,1
+"So you are saying Pitch basically consists of three different things, amplitude, phase and frequency?",15,0,Question,1
+"So from one time window when you move to another time window, you said pitch will vary, right? ",18,1,Question,1
+OK. Very good. You also talked about window windowing. What are the different window functions which are present? ,18,2,Question,1
+OK. So how many window functions? ,6,1,Question,1
+How many window functions you know of? ,7,1,Question,1
+"3. OK, amongst these three, which is which is better? ",10,1,Question,1
+OK. And why is it better? ,6,1,Question,1
+Can't you do overlapping windows even with rectangular window? ,9,0,Question,1
+So then why cosine window is better? ,7,1,Question,1
+So in a month. You kept track of what you were doing. And you found that In 20 days you have taken 12 Pops and eight six packets.So what is the probability of you consuming puffs?  ,37,1,Question,1
+" Now you also next month. What you did is that you kept the data.all right Additionally you had kept the data. The days on which you go and buy pops and chips. What was the weather condition outside? OK, whether the weather was rainy or sunny, cloudy, whatever it is. ",51,3,Question,1
+"And you find that given the weather rainy. You are buying chips more given the weather. Sunny more. You are buying puffs more like that. So this kind of probability, what is it called as? ",35,1,Question,1
+OK. What is conditional probablity?,5,1,Question,1
+can you please explain conditional probability? ,6,0,Question,1
+So what's the moral of the story? ,7,1,Question,1
+OK.Now let's say two events A&B are independent of each other. ,11,0,Question,0
+Will it be? ,3,0,Question,1
+P of A given B equal to P of A into P of B?? ,14,0,Question,1
+So each intersection conditional probability. ,5,0,Question,0
+"Is intersection you said. Intersection of A&B, right? ",8,0,Question,1
+OK. So let's say you have 1 billion numbers in one computer. OK. And you have For some reason you cannot transfer the data from 1 computer to another computer. OK. And you want to find out what is the mode of this data across the computers? another billion numbers in the same range in another computer? ,57,1,Question,1
+Mode..you know what is mode?,5,1,Question,1
+ how do you find the mode of the data across these two computers? ,14,1,Question,1
+ Can you explain function overloading in object oriented programming? ,10,0,Question,1
+Can you explain what is short time Fourier transform? ,9,1,Question,1
+OK. And how does Fourier transform help represent the signal? ,10,1,Question,1
+OK. So when we take a signal like a speech signal?,11,1,Question,0
+And we do have Fourier transform. Do we get the frequency components directly or we have to do something on the Fourier transformed values? To get the frequency components. ,28,0,Question,1
+OK.Does Fourier transform have any limitations? ,6,0,Question,1
+"you have studied the convolutional neural networks, right? ",8,0,Question,1
+So in the convolutional neural networks. ,6,0,Question,0
+Do we really do convolution? ,5,0,Question,1
+What is the difference between convolution and cross correlation? ,9,1,Question,1
+OK. What is the difference between convolution and dot product? ,10,1,Question,1
+" would you also like to comment on? From convolution and dot product perspective, the vector lengths. ",17,0,Question,1
+ Does dot product produce a scalar value or it's a vector? ,12,0,Question,1
+Can you tell me one one scenario where that product is used in in engineering applications? ,16,0,Question,1
+"So we are applying it in electrical engineering and teaching it to computer science students. Anyway, no problem, no problem. You have studied about lemmatization and stemming, right? ",28,0,Question,1
+Can you tell me what's the difference between stemming and lemmatization? ,11,1,Question,1
+Can you do lemmatization for a single word? ,8,0,Question,1
+And what about stemming? You can do stemming for a single word. ,12,1,Question,1
+So when we are producing speech. ,6,1,Question,0
+"Our trachea, which is basically the. Throat pipe. OK, that acts like a pipe, which mostly determines the resonant frequency Leading to the formant frequencies which are produced.  ",29,1,Question,0
+Now does this track? Yeah. Act like a open-ended pipe. That is two side open-ended or one side open-ended pipe. ,20,0,Question,1
+"OK. So you understand what is one side open-ended pipe right? Suppose you are you are taking your ball pen, OK. ",21,1,Question,1
+And like it is renal pain or something you have. ,10,0,Question,0
+Where you just unscrew it and put that the the the catteries and then they can close it. ,18,0,Question,0
+"The other end is closed. The plate or the hole through which you are blowing, that is the slate through which the air will come out.So now can you think and let me know. ",34,1,Question,0
+"No, it will come only through that side only because it is one side open. The other side is closed. ",20,0,Question,0
+You remember what is the Bayes theorem? ,7,1,Question,1
+Can you tell me what it is? ,7,1,Question,1
+"If you want it you, you can. If you want, you can probably write it and then probably tell it. That's also fine. ",23,0,Question,0
+So you said independent events. Now suppose two events A&B. They are independent. OK. And you already know event A has happened?,22,0,Question,1
+What would be the conditional probability? Of B given a. ,10,1,Question,1
+"So you are saying if and we are independent, they won't influence each other? ",14,0,Question,1
+ So what will be the joint probability? Of A&B in this situation. ,13,1,Question,1
+"No, no. What I meant is what would be the joint probability of A and? B. When A&B are independent of each other. ",23,2,Question,1
+" that is right because the conditional probability doesn't exist, it becomes the probability of each event independently",18,0,Question,0
+"Now, can you tell me now? How does this? Conditional probability. OK, how do we use this concept in speech recognition? ",21,1,Question,1
+Very good. You know what is TFIDF? ,7,1,Question,1
+" So now from a text processing standpoint, as you are talking about some text. ",15,0,Question,0
+" what I'm saying is that since we are talking about text processing, you know there are two, two measures we use in text processing. One is called term frequency, other is called inverse document frequency. ",36,1,Question,0
+Can you tell me what is storm frequency? ,8,1,Question,1
+"And you have studied about support vector essence at length, right? ",11,0,Question,1
+Support vector machines? SVMS. ,4,0,Question,1
+Tell me whether SVMS are by class classifiers or they are multiclass classifiers?,13,1,Question,1
+"In support vector machines. If you can visualize the support vector machine, we have something called as margin. ",18,0,Question,0
+Can you explain what is margin? ,6,1,Question,1
+"So I have one last question for you. Yes, Sir. Can you in object oriented programming paradigm? OK. Can you explain inheritance with an example? ",25,0,Question,1
+Can you give an example? ,5,0,Question,1
+"So is that inheritance or that is like, you know, method overloading. ",12,0,Question,0
+How is a convolution neural network different from a Regular fully connected neural network?,14,1,Question,1
+So that is all the difference between conversation and the fully connected networks. ,13,0,Question,0
+So the computational complexity of a CNN network. CNN versus a fully connected network which has a higher computational complexity. ,20,1,Question,0
+What is the advantage of CNN? ,6,1,Question,1
+"For processing, it takes less time?",6,0,Question,1
+ what is the disadvantage of CNN? ,7,1,Question,1
+So what is the? What is the purpose? Of pulling function. ,11,1,Question,TRUE
+"We use pulling in CNN, right? ",6,0,Question,TRUE
+What is the purpose of having pulling functions? ,8,1,Question,TRUE
+"No, I'm talking about pulling pulling layer is there in CNN. ",11,0,Question,FALSE
+Why do we have pulling layers? ,6,1,Question,TRUE
+what is a bag of words? ,6,1,Question,TRUE
+"Yeah, but what is a bag of words? ",8,1,Question,TRUE
+What are stop words? ,4,1,Question,TRUE
+So this list of stop words is that a fixed list or it keeps changing? From domain to domain. ,19,0,Question,TRUE
+It is a fixed list?,5,0,Question,TRUE
+OK.What are the different? Regularization functions you know for deep network training. ,12,1,Question,TRUE
+Regularization functions. ,2,0,Question,FALSE
+What are the different regularization techniques? Which are used for deep network training. ,13,2,Question,TRUE
+What is bagging? ,4,1,Question,TRUE
+What is universal approximation theorem? ,5,1,Question,TRUE
+Have you studied the different optimizers in CNN?,8,0,Question,TRUE
+ have you studied different optimizers used in network training? ,10,0,Question,TRUE
+So what is the difference between gradient descent algorithm and stochastic gradient descent algorithm? ,14,1,Question,TRUE
+What is the rank of a matrix? ,8,1,Question,TRUE
+What is rank of a matrix? ,6,1,Question,TRUE
+What is the rank of an identity matrix? ,8,1,Question,TRUE
+The rank of an identity matrix is one. ,8,0,Question,FALSE
+Why 2?,2,1,Question,TRUE
+What if I take a 10 by 10 matrix? ,9,1,Question,TRUE
+"Yeah. Suppose you have. A square matrix. And the rank is less. Than the number of columns. What will be the determinant of this matrix? Less than 0 equal to 0, greater than 0. ",34,1,Question,TRUE
+What are basis vectors?,4,1,Question,TRUE
+"For a vector space of dimension, let's say N. N dimensional vector space. ",13,0,Question,FALSE
+how many?Basis vectors are required to span the space,9,1,Question,TRUE
+N vectors are required?,4,0,Question,TRUE
+Suppose we have more than N vectors. What will happen? ,10,1,Question,TRUE
+If we have more than North vectors. What will happen? ,10,1,Question,TRUE
+Why? ,1,1,Question,TRUE
+"Yes, but suppose the number of basis vectors is more than the dimensionality what we have. ",16,1,Question,FALSE
+What do you know of foriour transform? ,7,1,Question,TRUE
+OK. Anything else? ,3,0,Question,TRUE
+This is you have to analyze the signaling frequency domain. ,10,0,Question,FALSE
+Why? Why do you say that? What becomes IVF? ,9,2,Question,TRUE
+What is drawback of Fourier transfer?,6,1,Question,TRUE
+What does that mean? ,4,1,Question,TRUE
+"OK, how does it affect us? ",6,1,Question,TRUE
+In time domain?,3,0,Question,TRUE
+what is time frequency localization problem? ,6,1,Question,TRUE
+It cannot take?,3,0,Question,TRUE
+So can you? Can you explain that I'm not able to understand what you are saying. ,16,1,Question,TRUE
+So is that is that something important? And. How and why? ,11,2,Question,TRUE
+Interesting. What is that from? ,5,1,Question,TRUE
+After analyzing the spectrum it gives such thought. ,8,0,Question,FALSE
+"So what should we you know, what do we prefer to deal with? Is it spectrum or cepstrum ",19,1,Question,TRUE
+And why is that? What's wrong with Spectrum? ,8,2,Question,TRUE
+I suppose you. You have to design a system. Which has to remove noise from incoming speech signal?,18,1,Question,TRUE
+So what would you do? How would you approach this problem? ,11,2,Question,TRUE
+OK. So you will generate the cepstrum MFCC coefficients. You will look at it and then you will be able to remove the noise from the space. Is it? ,29,0,Question,TRUE
+delta band?,2,0,Question,TRUE
+what is delta band?,4,1,Question,TRUE
+Filter bank?,2,0,Question,TRUE
+"So between speech processing, deep learning, that is DNS, IP and NLP. Who is subjective like most? ",17,1,Question,TRUE
+What are the things you have studied in NLP? ,9,1,Question,TRUE
+OK. So in speech processing we have something called as. Stop word's right. ,13,0,Question,FALSE
+Stop words. What are stop words? ,6,1,Question,TRUE
+OK. You have heard of something called TFIDF. ,8,0,Question,FALSE
+OK. So what does TF and what does IDF stand for? ,12,1,Question,TRUE
+What do they mean? ,4,1,Question,TRUE
+What does it? Mean what is TF and what is IDF? ,11,1,Question,TRUE
+" So you have also studied. What is bag of words, right? ",12,1,Question,TRUE
+What is bag of words? Explain it. ,7,1,Question,TRUE
+what is bag of words? ,5,1,Question,TRUE
+You know what is 1 hot encoding? ,7,1,Question,TRUE
+See in deep learning we have different regularization techniques. Have you heard of them? Have you studied them? ,18,0,Question,TRUE
+Are you comfortable with probability or linear algebra? ,8,0,Question,TRUE
+"So what do you what becomes? You know, what is conditional probability? ",12,1,Question,TRUE
+Can you give an example of conditional probability? ,8,0,Question,TRUE
+"ok, so now suppose these two events are independent. Of each other. ",12,0,Question,FALSE
+So what would be the conditional probability of the 2nd event given that the 1st event has already happened? ,19,1,Question,TRUE
+You mean the 2nd event will not happen at all? ,10,0,Question,TRUE
+I'm saying event that the 1st event has already happened or occurred. What would be the probability of the 2nd event occurring? ,22,1,Question,TRUE
+So you mean to say that the 2nd? Event will not occur. ,12,0,Question,TRUE
+" You have studied about these hidden Markov models, right? ",10,0,Question,TRUE
+what is a Markov chain? ,5,1,Question,TRUE
+Is that first order Markov chain or that is all about Markov chain? ,13,0,Question,TRUE
+Why are you explaining about to be as markov chain?,10,1,Question,TRUE
+Can you explain what is the Fourier transfer? ,8,1,Question,TRUE
+And why do we do it? ,6,1,Question,TRUE
+And why do you say it helps us analyze better? ,10,1,Question,TRUE
+" With respect to speech, you explained what is the limitation of Fourier transform. ",14,1,Question,FALSE
+"That's the problem. OK, what is the difference between short time Fourier transform and Fourier transform? ",16,1,Question,TRUE
+Which one is computationally more efficient? ,6,1,Question,TRUE
+So when we do Fourier transform. ,6,1,Question,FALSE
+We get the entire spectrum?,5,0,Question,TRUE
+It is computationally efficient. So why should we even do something for your transfer? ,14,1,Question,TRUE
+OK. So would you say that we apply short time Fourier transform because the signal at hand is not stationary in time? ,22,0,Question,TRUE
+You know what are the building blocks of a neural network? ,11,1,Question,TRUE
+So why do? We build a network. Can't the neuron do the same thing as the network does? ,18,1,Question,TRUE
+"Now, would you be able to probably put down or specify? What are the different limitations of a neuron which is overcome by using a network? Can you put one or two points? ",33,2,Question,TRUE
+How do you find out if two vectors are independent of each other or not? ,15,1,Question,TRUE
+if the dot product is 0. Then the two vectors are independent. ,12,0,Question,FALSE
+"So what if the dot product is .0.2 but something like point? Two, what would you call those two vector sets? ",21,1,Question,TRUE
+So do we really need the vectors to be independent for different classification tasks? ,14,0,Question,TRUE
+You know what is principal component analysis? ,7,1,Question,TRUE
+"OK, you have studied support vector machines, right? ",9,0,Question,TRUE
+Where do you? Use support optimizations and what are the different assumptions behind? When we use. Support vector machine for a given scenario. ,23,2,Question,TRUE
+"Suppose I ask you to write one sentence splitting algorithm. OK, OK. OK. So and there is a block of text which contains multiple sentences. You are supposed to write one sentence splitting algorithm. ",34,1,Question,FALSE
+How would you? What would be your logic? To do a sentence lacking.,13,2,Question,TRUE
+One or two example situations where this algorithm may fail.,10,0,Question,FALSE
+"So what you are saying is that the simple dot is sometimes used as an abbreviator at other times as like you know, sentence ending statement ending symbol. So because multiple uses of the same symbol for multiple purposes. ",39,1,Question,FALSE
+"Which gets interpreted. Humanly, contextually. OK, the algorithm may fail.",10,1,Question,FALSE
+ when we. How do the sound propagates when we speak something? How does it propagate from your speaker to a listener?,22,2,Question,TRUE
+"So when the sound travels from the mouth of one person to the ear of another person, what kind of signal transmission happens? Is it more of a airwave or is it an electromagnetic wave? Or what is it? How does it go? ",43,3,Question,TRUE
+Suppose you and your friend. You going to space where there is no air. Would you be able to speak to each other?,23,0,Question,TRUE
+"so I mean, we have different consonant, the four themes which basically come from consent. Sound and then we have 4 names which come from which represent the vowel sounds OK. ",31,1,Question,FALSE
+How how do you? How would you differentiate between? Suppose you are looking at only the spectral properties of a sound. Would you be able to make out whether it is a vowel sound or it is a consonant sound? ,40,2,Question,TRUE
+" you have a speech signal and you want to understand whether the Sentiment of the speaker is a positive sentiment. Or is a negative sentiment OK.The person is happy.,sad,angry How would you do that?",34,1,question,TRUE
+ tell me more?,3,0,question,TRUE
+can you help me understand how easily your system will design?,11,1,question,TRUE
+" you are saying that you will take the speech signal and you will recognize it and you will have that text, then you will analyze that text to find out what is the sentiment in it, right?",37,1,question,TRUE
+"the text is available, how will you analyze it to understand the sentiment?",13,1,question,TRUE
+What is noise in text?,5,1,question,TRUE
+" be little more specific. You said that you will remove relevant things. How you find out what is irrelevant, what is relevant?",22,3,question,TRUE
+ What is the stopword?,4,1,question,TRUE
+Can you give an example?,5,0,question,TRUE
+you will remove stopwords from the sentence.Then what will you do?,11,1,question,TRUE
+How wil you do it?,5,1,question,TRUE
+How will you do sentiment analysis?,6,1,question,TRUE
+Which approaches will you can you name some approaches?,9,1,question,TRUE
+You can use SVM?,4,0,question,TRUE
+you have a text sentence and you have removed stop word in it. How do you use it in SVM?Does the SVM understand text sentences?,25,1,question,TRUE
+how would you use SVM for this scenario?,8,1,question,TRUE
+ when you are doing a convolutional neural network.What do you train for?,12,1,question,TRUE
+"You do a training of CNN's, right?",7,0,question,TRUE
+What do you train for? What gets trained in a in a training phase of the CNN?,17,2,question,TRUE
+what is the difference between a general neural network and a convolutional neural network?,14,1,question,TRUE
+convolutional neural networks.,3,0,answer,TRUE
+"Which ones, CNS or general networks?",6,1,question,TRUE
+CNN used for the image?,5,0,question,TRUE
+Name a non-linear classifier?,4,0,question,TRUE
+decision tree or SVM which one?,6,1,question,TRUE
+why do you said SVM is a non-linear classifier?,9,1,question,TRUE
+Can you tell me name of one classifier ?Which is non linear in nature ?,15,0,question,TRUE
+what is a stationary signal and what is a non stationary signal?,12,2,question,TRUE
+what is the loss function?,5,1,question,TRUE
+How is it different from error function?,7,1,question,TRUE
+when you are Optimizing for a deep learning network. Or Do you optimize for the loss function or do you optimize for?error function?,23,1,question,TRUE
+Why? Why not for?,4,1,question,TRUE
+when you optimise for the loss function or cost function?Does it mean it minimizes error or not?,17,1,question,TRUE
+"how do you make sure that it minimizes errors?Because you are using some other function, right?So which means what is the relationship between loss function and error function?",28,3,question,TRUE
+What is the difference between a normal  regular neural network and the convolutional neural network?,15,1,question,TRUE
+Why do we use convolution? What is? What advantage do you get by using convolution?,15,3,question,TRUE
+what is the advantage of doing convolution?,7,1,question,TRUE
+What is the role of bias in a perceptron?,9,1,question,TRUE
+ what is short time Fourier transform STFT?,7,1,question,TRUE
+"Instead of using FFT, why do we use STFT?",9,1,question,TRUE
+how does the computational time decrease?,6,1,question,TRUE
+"so revanth,pranavi said that By windowing And doing STFT, it is computationally less expensive.Do you agree with this?",18,0,question,TRUE
+which signal you don't agree?,5,1,question,TRUE
+let's say you are handling speech And there are lots of noise.And you are you are given the task to reduce the noise present in the speech signal. How will you achieve this?,33,1,question,TRUE
+What kind of filters should you use?,7,1,question,TRUE
+you can use either low pass or High Pass. Both will do the noise removal is it?,17,0,question,TRUE
+which kind of noise you will use low pass and for which kind of use noise will you use high pass?,21,2,question,TRUE
+then you give an example of high frequency noise?,9,0,question,TRUE
+Can you be a little more specific?,7,0,question,TRUE
+"Give the source of the high frequency noise. Tell me like your dog barking.,OK. Or whispering of the winds or waterfall noise? What would qualify as a high frequency noise?",30,1,question,TRUE
+"Construction happening around OK, so you mean to say machinery sounds?",11,0,question,TRUE
+ Can you give examples of some low frequency noise?,9,0,question,TRUE
+Can you give an example of function overloading and explain what it is?,13,1,question,TRUE
+How is memory management done in In object oriented programming languages.?,11,1,question,TRUE
+ let's say you are creating different objects. who takes care of disposing these objects after they are used? Their life is over.,22,1,question,TRUE
+" I do not know what what's called destroys the objects, but I do know that the objects will be destroyed once.The code is over.",24,1,answer,TRUE
+What is the role of a constructor and? What is the role of an destructor?,15,2,question,TRUE
+what is the difference between mean and median?,8,1,question,TRUE
+Are you sure isn't that mode?,6,0,question,TRUE
+Suppose you have 10 ones.So there are. number one is appearing 10 times.7 is appearing 10 times. And all the numbers between 1 and 7 are appearing once only. What would be the median?,34,1,question,TRUE
+" you have studied deep learning, right?you have studied deep learning, right?",11,0,question,TRUE
+" in deep learning you have studiedConvolutional neural networks, right?",9,0,question,TRUE
+why do we use convolutional neural networks?,7,1,question,TRUE
+What kind of data?,4,1,question,TRUE
+why do we use convolution? What is the advantage of using convolutional neural networks?,14,2,question,TRUE
+we use activation functions in networks.Are you aware that we use different activation functions in the neural network?What is the role of activation function?,24,0,question,TRUE
+How do they help us?,5,1,question,TRUE
+What is the difference between a CNN and RNN?,9,1,question,TRUE
+Can you use the CNN network for regression problems?,9,0,question,TRUE
+ how will you use the CNN for regression?,8,1,question,TRUE
+"what are the different, you know, data augmentation. What is data augmentation in neural networks?",15,2,question,TRUE
+Can you tell me what is it?,7,1,question,TRUE
+Explain me what you understand by data augmentation?,8,1,question,TRUE
+ how does it do it?,5,1,question,TRUE
+what are the other regularization techniques you are aware of?,10,1,question,TRUE
+"But how will you find out? Let's say that data is already there and you have trained a network. OK, at the end of the training, how will you find out whether the network has gone for overfit or not?",40,2,question,TRUE
+suppose the network has been trained.How you find out whether it has gone for overfitting or it is regular fit?,20,0,question,TRUE
+what is the difference between stemming and lemmatization?,8,1,question,TRUE
+what is canonical form?,4,1,question,TRUE
+how do you define canonical form?,6,1,question,TRUE
+What is the difference between a word and a token?,10,1,question,TRUE
+ there are words or tokens ?,6,0,question,TRUE
+what is encoding?,3,1,question,TRUE
+What is encoding?,3,1,question,TRUE
+Can you give an example?,5,0,question,TRUE
+Anything else?,2,0,question,TRUE
+ let's say you have a speech processing application.And you have been given the task of Developing your speech recognition system.,20,0,question,TRUE
+Where do we use it?,5,1,question,TRUE
+And the incoming speech is coming from.Very noisy environment.like a battlefield.,11,0,answer,TRUE
+what would you do?,4,1,question,TRUE
+ Can you go into little more details about the preprocessing?,10,0,question,TRUE
+how would you reduce this noise?,6,1,question,TRUE
+which basic techniques?,3,1,question,TRUE
+What is spectral subtraction?,4,1,question,TRUE
+you know what is your convolution?,6,1,question,TRUE
+What is it?,3,1,question,TRUE
+What are the different kinds of convolution?Functions which are there.,10,2,question,TRUE
+"Are there different kinds of convolution? If so, what are they?",11,1,question,TRUE
+"what is the mean and what is the median, right?",10,2,question,TRUE
+where is mean used and where is median used?,9,2,question,TRUE
+ what I'm asking is not what they are. I'm asking where are they used?,14,3,question,TRUE
+Do you know any sequential classifiers?,6,0,question,TRUE
+What is the full form of LSTM?,7,1,question,TRUE
+What did it mean?,4,1,question,TRUE
+What is vanishing gradient?,4,1,question,TRUE
+does it happen for every network or it happens for some networks?,12,0,question,TRUE
+ how is it addressed in the relu?,7,1,question,TRUE
+how does it address the vanishing gradient problem?,8,1,question,TRUE
+"You have you have data. OK, it's a numeric data.Now I can either use mean or median To represent the central tendencies of this data.",25,0,question,TRUE
+"I have numeric data.I have two options I can use. Mean or median?Now the question is, in what scenario should I use mean and where should I use media?",29,2,question,TRUE
+What is covariance and what is correlation?,7,2,question,TRUE
+what does a correlation of 0 versus a correlation of one versus a correlation of -1? How would you interpret these things?What does? What do they mean?,27,3,question,TRUE
+"Can you name one classifier which is probabilistic in nature? That is, that uses the probabilities of the data to classify.",21,1,question,TRUE
+So let's say you have to design a speech recognition system.Can you tell me?How you go about designing this?Let's say you have to do a speech recognition system in your mother tongue.So what all will do to?Build a speech recognition system in your mother tongue.,45,1,question,TRUE
+Where do we use windowing function? What is its use for us?,12,2,question,TRUE
+What are the different window functions you know of?,9,1,question,TRUE
+Hamming window and rectangular window. Which one is better and why?,11,1,question,TRUE
+What is the spectrogram?,4,1,question,TRUE
+What is MFCC?,3,1,question,TRUE
+What are the MFCC's?,4,1,question,TRUE
+what is cepstrum?,3,1,question,TRUE
+What is mel frequency?,4,1,question,TRUE
+"Mel frequency. You said male frequencies cepstral coefficient, right?Did you say mel frequency cepstral coeffiecient?",15,0,question,TRUE
+What is mel frequency?,4,1,question,TRUE
+go ahead and explain it.Explain it in detail.,8,0,question,TRUE
+Anything else?,2,0,question,TRUE
+Why do we use these Mel frequencies?Is there any advantage of using male frequencies?,14,1,question,TRUE
+question is why?,3,0,question,TRUE
+What is the determinant of a rectangular matrix?,8,1,question,TRUE
+Determinant of a rectangular matrix is a square matrix.Is that right?,11,0,question,TRUE
+what is determinant for a rectangular matrix.,7,1,question,TRUE
+Suppose you have a square matrix which is an identity matrix. What is its determinant?,15,2,question,TRUE
+"Irrespective of size of the identity matrix, suppose it is 2 by 2, three by three, 5 by 5 everywhere it is one.",23,0,answer,TRUE
+Are you sure?,3,0,question,TRUE
+You have a square matrix And one of the Columns is 0.What would be the determinant of this matrix?,19,0,question,TRUE
+you have a square matrix with one column zero.What is the determinant of this matrix?,15,0,question,TRUE
+Why?,1,0,question,TRUE
+"why you have to take zero into something you can take determinate with the non zero values also, right?",19,1,question,TRUE
+Why? That is what I'm asking. Why?,7,1,question,TRUE
+Can you tell me for a M cross N matrix where M rows and N columns are there What is the maximum rank of this matrix?,26,2,question,TRUE
+Can you tell me what is rank of a matrix?,10,1,question,TRUE
+ what is rank of a matrix?,6,1,question,TRUE
+How do you find out how? What is the rank of a matrix?,13,2,question,TRUE
+What is mean?,3,1,question,TRUE
+what is median?,3,1,question,TRUE
+"2,3 and 10, so the. Median will be three because there are odd number of values, so the middle number will be the median.",24,0,answer,TRUE
+"Are you sure? Because would it not be 10 + 2 / 2 which is equal to six, so that is the middle value in the range of values Which are appearing",32,2,question,TRUE
+ when should we use mean and when should we use median? Why are there two central tendencies dealing with numbers?,20,3,question,TRUE
+"what are the Different kinds of window functions, you know Which can be used?",14,2,question,TRUE
+"You are a ML engineer employed in a company which is dealing with let's say.Biomedical signals such as ECG, EG kind of data And you are trying to analyze them in short time windows to find out if there are anomalies in the data.What window would you use and why?",50,1,question,TRUE
+when you you are using let's say a cosine window.Would you consider taking overlapping time slots or would you take non overlapping time slots?,24,1,question,TRUE
+Now can you? Can you tell me what is one example use case for a spectrogram?,16,1,question,TRUE
+"Do You know what is what is called as a universal approximation theorem, mostly used in deep learning?",17,2,question,TRUE
+What is it?,3,1,question,TRUE
+what is a perceptron?,4,1,question,TRUE
+What is it?,3,1,question,TRUE
+what are the limitations of perceptron? What kind of classification can it perform?,13,2,question,TRUE
+You know what is a bag of word?,8,1,question,TRUE
+What is it?,3,1,question,TRUE
+What do you use? Bag of words?,7,1,question,TRUE
+You know what are bigrams?,5,1,question,TRUE
+What are they?,3,1,question,TRUE
+you have a sentence Which consists of nine words.How many bigrams can it generate?,14,1,question,TRUE
+In object oriented programming we have a Concept called function overloading or method overloading.What does it do?,17,0,question,TRUE
+How does it help us?,5,1,question,TRUE
+Have you used anytime overloaded functions?,6,0,question,TRUE
+What about current semester? Let's say in speech processing? Are you using overloaded function?,14,1,question,TRUE
+ how do you read the audio file in Python?,9,1,question,TRUE
+now do you see overloaded functions everywhere?,7,0,question,TRUE
+What is a mel channel?,5,1,question,TRUE
+how does it help us?,5,1,question,TRUE
+you know what is short time Fourier transform?,8,1,question,TRUE
+What is it?,3,1,question,TRUE
+what about wavlets?,3,1,question,TRUE
+What are wavelets?,3,1,question,TRUE
+ you employ a Fourier transform on it. What? What does the output look like?,14,1,question,TRUE
+By Speech recognition.,3,0,answer,TRUE
+and with also text recognition.,5,0,answer,TRUE
+"We can, like we can convert that speech into text like. After. Various tools and libraries to Convert that and analyze the sentiment ",23,0,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+I will preprocess the text and remove the noise.,9,0,answer,TRUE
+"I was saying, like in speech speech. And remove it irrelevant information in text that we have we have received.",20,0,answer,TRUE
+" in this On text Punctuations, lower case, lower casing, etcetera, we can remove remove stopwords. ",15,0,answer,TRUE
+stop words like in sentence so I can say like. Not Which do not carry like a basic significant meaning.,20,1,answer,TRUE
+ I have no idea,4,0,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+ Then we will apply like sentiment analysis to for the prepared preprocess text.,13,0,answer,TRUE
+there are some different machine learning approaches and deep learning approaches that we can,14,0,answer,TRUE
+Naive based RNN etc. SVM also we can,8,0,answer,TRUE
+yes sir,2,0,answer,TRUE
+No idea sir,3,0,answer,TRUE
+"While doing convolutional, neutral it Sir after that",8,0,answer,TRUE
+yes,1,0,answer,TRUE
+Text we can extract the text from illness,8,0,answer,TRUE
+"The difference between convolution and neural network are, general neural network It is the text text to image calibration.",19,0,answer,TRUE
+"It  typically take the input data from the,from the  vector",10,0,answer,TRUE
+it take the input from the from the vector general neural network sir convolution CN used for the image image,20,0,answer,TRUE
+field like data. CNN used it for the best accuracy and improve the accuracy.,14,0,answer,TRUE
+"SVM,Decision tree",2,0,answer,TRUE
+Both,1,0,answer,TRUE
+"because actually actually SVM is an kernel function.So, because actually actually SVM is an kernel function.",16,0,answer,TRUE
+"It's an cost cost function, mainly it will. It's a type of machine learning model.It minimize and loss function during the training process sir. It mainly minimize the training process ",30,0,answer,TRUE
+Means the loss function,4,0,answer,TRUE
+"I don't know, Sir",4,0,answer,TRUE
+I'll optimize on the loss functions.,6,0,answer,TRUE
+ because.It will predict the values of the model and the actual ground truth values.In the training data.,17,0,answer,TRUE
+It will minimize the error,5,0,answer,TRUE
+relation between the error means actually the loss function is the model that actually ground the truth values.In this error function it will,23,0,answer,TRUE
+"For large datas like images and stuff, convolution is used.",10,0,answer,TRUE
+"Basically it like,Like images are two or three like a 2D data it it is a very huge data which can't be handled by other neural network. So convolution can handle a Larger Data and it can also give a proper analysis for the data. That's why it is chosen according to.",52,2,answer,TRUE
+"Bias is like An activation function you can say .If the In a perceptron model you have two things like activation function and aggregation function. After aggregating the inputs, if the output is above this level, that is the threshold of the bias, then only it is considered.To as a if it is above, then it is considered as the output one, or if It is below 0 something like that.",71,0,answer,TRUE
+"Short time. Yes, Sir",4,0,answer,TRUE
+"So basically, short time Fourier transform is basically use.in Windowing in fourier a signal and doing fourier to each and every windowing segment that we have updated. So by doing this there will be no loss of data because we are considering each window and we are trying to do and it. It is basically like instead of considering whole signal the computational time and analysis. Like the time complexity will be more so taking one window, the accuracy and analysis is per like almost near to perfection and also the computational time decreases.And it's faster.",96,0,answer,TRUE
+" whatever I believe is like when you take a whole signal and try to process it, it might give errors and take time.But when you take windowing and try to do, I feel little take less time and process it properly.",41,2,answer,TRUE
+Speech signal with lots and lots of noise.And that might didn't make any difference,14,0,answer,TRUE
+We can use filters,4,0,answer,TRUE
+low pass or high pass filter,6,0,answer,TRUE
+"Like based on the type of noise, we can use either low pass or high pass filter",17,0,answer,TRUE
+Low pass can be like high frequency noises like.,9,0,answer,TRUE
+Can be any background noise,5,0,answer,TRUE
+ it can be any like background noise or anything in the.,11,0,answer,TRUE
+Like high frequency noise can be any type of background noise in the environment.,14,0,answer,TRUE
+Like any construction happening around,5,0,answer,TRUE
+that's kind of.,3,0,answer,TRUE
+"So basically, uh, in Java you use functions with the given set of parameters to make it work.So function overloading is basically when you have two functions of the same name. But you have a different number of parameters in it, so depending on which number of parameters you use, it overrides the other function and it gives.You the output",60,2,answer,TRUE
+A basic example which I can give right now is suppose you know you're in your home and there's a washing machine going on. So the low rumbling of the washing machine itself can be considered as a low frequency sound.,41,1,answer,TRUE
+" I do not know what what's called destroys the objects, but I do know that the objects will be destroyed once.The code is over.",24,1,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+"And basics in constructor basically utilizes a small instance in the memory itself to define a function to basically work a function and destructor is you could say opposite of it, where after the constructor has finished doing its function it will destroy it.",44,1,answer,TRUE
+"the mean is technically like the average of whatever input you give it, and the median is, is the most repeated, not repeated.That is more.So suppose I give you a bunch of numbers. Suppose you take 123 and then four fives and then 5. So the median here would be a number that is close to the bunch of forces because they're repeated more. Basically, it's like, uh, the place where the frequency of numbers is.the highest.",80,1,answer,TRUE
+"Mode is the number which is the highest, Sir, but median is the area where the numbers are mostly gathered. Like suppose there are multiple threes and then multiple fours multiple files. The meeting could be somewhere near there because it is the data is distributed more in that area.",50,2,answer,TRUE
+"The median is not what I explained. That was mode. As you're right, the median is the middle most number in the given given data. When it's sorted, that is.",30,2,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+ it's an algorithm that is used to classify the data,10,0,answer,TRUE
+It can be Image data or text data or text data. We use text engine to classify the text data or it can be numericals.,25,0,answer,TRUE
+Advantages.It has feature extraction like. It can extract relevant features from the raw data set.,15,0,answer,TRUE
+Activation activation functions helps us to helps us in the classification problems.,12,0,answer,TRUE
+Not sure how they help,5,1,answer,TRUE
+"Yes, we can use.",4,0,answer,TRUE
+"Like for images classification and spectrograms, we can use them",10,0,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+"Like what is the definition, Sir",6,1,answer,TRUE
+ It is a technique. It is a technique which will increase the size of training data set by the like if there is a data will generally split into training and testing. Augmentation is nothing but we'll increase the size of training data set.,44,1,answer,TRUE
+Like flipping horizontal and vertical flipping and image rotation scaling.By using some functions.,13,0,answer,TRUE
+Other techniques for augmentation,4,0,answer,TRUE
+"So if there is a large difference between some values, like if we are taking binary data, if number of ones are very greater than number of zeros like there are 10,000 number of ones and only five to six number of zeros, then we will do overfitting.",48,0,answer,TRUE
+Not I'm not having any  idea,6,0,answer,TRUE
+"stemming and lemmatization.Stemming is nothing, but they're both used in like natural language processing only Sir. stemming involves in remaining prefixes and suffixes like if there are. If there is a word like cars, it will remove s. And limitation involves in reduce the number, reduce the words to its canonical form.",52,0,answer,TRUE
+"For example, there are words like AM, is, are.They will be converted into B.",14,0,answer,TRUE
+Like it's a base word.,5,0,answer,TRUE
+"Word and the token. If there is a word For example, if the there is like if there is sentence I am charmikar then tokens are like I, am and charminar. If there is a word Charmikar tokens are C,H,A,M,I,K,A,R like classification into sub parts.",45,0,answer,TRUE
+Smaller parts are token,4,0,answer,TRUE
+ I didn't get it.,4,0,answer,TRUE
+"like encoding, it transforms the data into different formats or like for efficient processing and all it transforms the data into a different format.",24,0,answer,TRUE
+Like there are few techniques like MFCC. It converts audio signal into feature vectors. Basically these vectors they represent these speech signal characteristics.,23,0,answer,TRUE
+That's all,2,0,answer,TRUE
+"So it is like it can be used for data compression or for transmission as well. No Sir. Even like for storing, for storing your data in like in a compressed or in a compressed format. We use this encoding.Like it is kind of crucial for convert. So basically what it does, it converts these raw audio signals into feature representations. So like.For synthesis and and we use MFCC as well to convert this audio signals into features.",78,1,answer,TRUE
+Not I'm not having any  idea,6,0,answer,TRUE
+speech recognition system ,3,0,answer,TRUE
+it is human hearing like.,5,0,answer,TRUE
+yes yes sir,3,0,answer,TRUE
+"To have very efficient recognition of speech Like the the basic stuff,No Sir. Like first we need to have like a good pre processing and then the feature extraction should be done and then the model also should be trained enough so to give us an good amount of. Accuracy.Is there like, yeah, by including all this, I think, like even in noisy environments we get the proper Or is it the speech signals",74,0,answer,TRUE
+So we can use like noise reduction techniques. No . Since you told it's a noisy environment. Like suppose in a battlefield like suppose so there's gonna be a lot of noisy around. So we can use any noise reduction techniques like spectral subtraction. That is one thing that we can do. So basically we need to enhance the signal to noise ratio.To improve the preprocessing method.,67,0,answer,TRUE
+Not sure about that. We can use like the basic techniques also.,12,0,answer,TRUE
+Spectral subtraction,2,0,answer,TRUE
+"So it's a common it's like a basically like a it's a noise reduction techniques used for speech processing the app. Yeah. For our thing it can be used for our applications. Like basically what it does is it.It subtracts the estimate of noise spectrum, Sir. from like if it's too noisy. You'd wanna subtract the the estimate of noise. So whatever it's, it's gonna reduce the things it's gonna it. Basically, it enhances the signal to noise ratio. So the model can understand.And like which part of the noise and which can be used for a signal thing like so that we can hear properly.",106,3,answer,TRUE
+Yes. I know convolution.,4,0,answer,TRUE
+"convolution is nothing, but it's a multiplication of two signals within a filter with a filter. Windowing sir Like So basically there are Sir, it's it's multiplication of two signals with one signal with that another filter signal",38,0,answer,TRUE
+it is a picthes like a pitch in voice based on the human hearings.,14,0,answer,TRUE
+No sir,2,0,answer,TRUE
+"There are dimensional convolutions are like 1D,2D and all. 1D convolution 2D convolution like 1D means it is a time series Sir. Basically it says text data convolution.So yes, Sir, basically convolutions are different. Types are like 1D,2D and 3D like in 3D means you are convoluting as images, images and 1D means you are convoluting text data and all features.So that's so.",63,0,answer,TRUE
+"Particularly, we use in speech recognition and speech recognition for speaker recognition and music analysis.",15,0,answer,TRUE
+Mean and median..The name means nothing but sum of all values by total number of values.And median means it is.The middle number in that entire series,26,0,answer,TRUE
+mean is used to find basically to find the average average data Sir.And the median is used to find the middle elements. In the data,25,0,answer,TRUE
+No idea. So basically in statistics they are used in calculating this.this accuracy mean absolute error mean square error,19,0,answer,TRUE
+No idea,2,0,answer,TRUE
+Service sequential like LSTM and RNN.,6,0,answer,TRUE
+long short term memory,4,0,answer,TRUE
+"basically it sequence. It isn't sequential data, it it learns from sequential data. Sir, basically like a time series data and all it is what it does Sir.It takes information from the previous cells to predict this current cell, Sir.So it also addresses the vanishing gradients as well, which is lacking in RNA.",53,2,answer,TRUE
+" the vanishing gradients are when we are back propagating, so the weights in that neural network in the neurons decreases So which allows the neurons to vanish. That information in that neurons.Basically, it occurs during back propagation, Sir, from the result to again from start result to starting.",48,2,answer,TRUE
+", basically it happens based on the type of activation functions we are using in itself. Suppose we are using a sigmoid function. It has an activation. This is a vanishing gradient, whereas in Relu vanishing gradients are addressed in that",41,0,answer,TRUE
+in relu.what it does was it taken all the negative values were taken to zero and all the positive values are taken as it is and they took maximum of that zero to positive values..In between zero and maximum value.,40,0,answer,TRUE
+I don't know much,4,0,answer,TRUE
+mean is used to calculate the average Like or else in medium we can we use.I I don't know.,19,0,answer,TRUE
+"correlation measures the strength and direction of the relationship between two variables and covariance. Covariance measures the extent to which two variables change together. Covariance can be positive, negative or zero, whereas the correlation changes from -1 to one.",39,1,answer,TRUE
+I'm not sure,3,0,answer,TRUE
+Probabilistic in nature..Navies,3,0,answer,TRUE
+"Firstly, collect a data set.Like for example, my mother is tamil. So I'll be collecting speeches like tamil has many variants. Variants is like, you know for which maybe for example if I take all the thirukkurals in Tamil, I all this has the data set. I'll collect the data set and I might extract features because thirukkurals uses old tamil not new one.Then I might select the proper model, like mostly deep learning",74,1,answer,TRUE
+" windowing,I think windowing is commonly used in signal processing, particularly in the fields of.Signal processing and audio processing Like in FFT we we use. in FFT algorithm.Analysis of signal using FFT.",31,0,answer,TRUE
+Different window functions are Rectangular window .Sir I don't know exactly.Hamming window rectangular window,14,0,answer,TRUE
+no idea,2,0,answer,TRUE
+ i don't know ,3,0,answer,TRUE
+"MFCC sir Some mel frequency,Mel frequency spectral coefficients.Not spectral,cepstral",9,0,answer,TRUE
+no idea,2,0,answer,TRUE
+yes sir,2,0,answer,TRUE
+Determinant is calculated only for square matrix.It is not calculated for the rectangular matrix,14,0,answer,TRUE
+The determinant  one,3,0,answer,TRUE
+"ve of size of the identity matrix, suppose it is 2 by 2, three by three, 5 by 5 everywhere it is one.",23,0,answer,TRUE
+the determinant is always one for any N by N matrix.,11,0,answer,TRUE
+One of the column is 0 Sir,12,0,answer,TRUE
+Zero.,1,0,answer,TRUE
+"Like for one column, if it is 0 if we found that it, it will always 0.One complete oneSir. Like if you take that column zero into opposite ones.",29,0,answer,TRUE
+ so like if we take for non zero values like if we calculate for non zero values also it will become zero in opposite way.,25,0,answer,TRUE
+"The is the complete column is 0, then det it will be 0.",13,0,answer,TRUE
+"One second, Sir I'm not sure, Sir, but if it's a M cross N matrix, I think maximum rank will be M.i am not sure",25,0,answer,TRUE
+I think rank is the number of linearly independent column vectors in a matrix.,14,0,answer,TRUE
+"I don't remember, Sir.",4,0,answer,TRUE
+"Mean is the average of the entire data, so it's the sum of the total data points by the number of data points.",23,0,answer,TRUE
+"Medium is the central point of the entire data, so it represents The data from either sides and gives you a little bitOf idea about it.",26,0,answer,TRUE
+"I'm not sure, Sir.",4,0,answer,TRUE
+"Mean is used when you want like estimate or the average of the entire data.But when you want something to represent the data by, you can use medium.",28,2,answer,TRUE
+"I know of three window functions, one is the cosine or hamming window the Gaussian or hanning window and the rectangular window.",22,0,answer,TRUE
+"I would use the Hamming window of the cosign window because it since we're dealing with biomedical data, it's very essential that we don't lose any of the information in the spectrum and windows like rectangular or Gaussian window. They tend to have spectral leakage, so it would be best to use cosine window and also we know that the values in cosine window don't exactly start with zero or end with zero which again prevents spectral leakage. So yes, I will choose that.",84,1,answer,TRUE
+I would take overlapping time slots because it would ensure continuity in the data processing or speech processing.,18,0,answer,TRUE
+"Use case for spectrogram could be Audio fingerprinting or like you said, ECG analysis.",14,0,answer,TRUE
+"Yes, I have heard of it",6,0,answer,TRUE
+"Not sure, I cannot recall.",5,0,answer,TRUE
+Yes.,1,0,answer,TRUE
+A perceptron is part of a neuron which takes a input function and gives you the output function depending on the weights of Information being processed.,26,1,answer,TRUE
+"Perceptron can perform binary as well as multiclass classification, but it works better on binary.. Because the number of classes to classify from is the lower and the processing time is also lesser for that",35,0,answer,TRUE
+Yes.,1,0,answer,TRUE
+It it displays it's a form of matrix that shows you the count of each word in a document. So it's a document term matrix.,25,0,answer,TRUE
+"When you want to understand the overall frequency, not frequency, the count of the word exact term in one or multi document corpus. Then you use bag of words, but it's better to use TFIDF because it takes into consideration the order of the words and Semantic understanding as well.",50,1,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+"They are a part of a probabilistic model where you take if there are. If you want to analyze N words, then you take the n -1 previous words of it. So it's kind of like a Markov chain, but you consider N -1 terms before the word itself.",49,1,answer,TRUE
+It can generate 9. I think I'm not sure.,9,0,answer,TRUE
+"It's it's basically when you have multiple methods or functions with different parameters as their input and every time you are calling, let's say calling a function, let's call it chopped brackets and let's say the functions and. I mean the input variables inside it are of the form. Int, int and string. So when you're calling this particular function And let's say this another function with chop and instead of int, int, string, it's int, float, int. So whenever you're calling a particular function so there are chances that I think I'm confusing with polymorphism also. Yeah. So you're calling the particular function with the variables and automatically the function is called  So you can have two functions with the same names with different input variables. That's function overloading.",130,2,answer,TRUE
+"Function overloading. OK so Maybe we should take a scenario where Maybe it is a particular function where the process is the same, so it analyzes the same or it gives you the same calculated output but the input variables might instead of be integers. It might be float variables, sometimes other times it might be int and there's an ambiguity in your program where you don't know what your input variables are going to be So in such a scenario we can create A method overloading with functions Different inputs but solves the same process.",96,4,answer,TRUE
+Yes. So when I worked for my object oriented project in seconds and no first semester I did use yes.,20,1,answer,TRUE
+" not in the project so far, but in For this lab, work for plotting for the purpose of plotting, I did use function overloading, but it was yeah, for Python. I did use for plotting of spectrograms and plotting of normal waveforms.",42,0,answer,TRUE
+There's the package called librosa.So you with help of lebrosa you can read your file.,15,0,answer,TRUE
+"Yes, so technically most functions are overloaded functions.",8,0,answer,TRUE
+"Mel, frequency is it came into existence when we realized how the human ear processes or perceives sound differently. So the higher the frequency, the lesser our perception is on the sound. So based on that there was the mel channel created to convert any normal frequency onto the Mel Channel which works logarithmically.",54,3,answer,TRUE
+" it has this process, the speech better because for a machine when it's processing speech, it can identify the difference in frequencies very clearly like the higher even between 1000 Hertz and 1100 Hertz, it can identify the difference a machine can, but human ears can Not we identify smaller frequencies better and the higher the frequency gets, the more ambiguous it sounds. It sounds like the same frequency to us. So what happens is when you're processing speech, this quality is important because speech basically comes from humans, right? So the way humans perceive the same.So it is important for us to process and get the features better. So that is why there is better.",116,4,answer,TRUE
+"Yes, Sir.",2,0,answer,TRUE
+"A short time Fourier transform of the understanding. The reason it came behind the reason it came was because in a frequency of a speech.There, there's no constant frequency or constant intensity is always a varying range of frequencies when you're speaking. So when you're going to do a forget transfer of the whole signal, you lose out on many temporal characteristics of the speech. which basically reduces the accuracy of your model later on. So instead of doing a Fourier transform on the whole signal, we divide it into parts or the windows. So that's how the word short time for your transform came. So it takes short short windows of the same frequency and then transforms it onto the spectral domain.",123,4,answer,TRUE
+"I've heard the term, but I Don't know what they are.",11,1,answer,TRUE
+Not getting through. ,3,0,answer,TRUE
+Conjugate symmetry.,2,0,answer,TRUE
+we will get a complex value,6,0,answer,TRUE
+I think many ,3,0,answer,TRUE
+hundred,1,0,answer,TRUE
+it is limited to time resolution or it may not capture the non stationary speech and speech characters. ,18,0,answer,TRUE
+it changed the signal changes over time. ,7,0,answer,TRUE
+mean or variance.,3,0,answer,TRUE
+Independent.,1,0,answer,TRUE
+"Two vectors can be can be very important. If one vectors cannot be expressed as a scalar of another vector, then there can be. ",24,0,answer,TRUE
+For writing 1 vector in the form multiplying the scalar so that we can get the another vector. ,18,0,answer,TRUE
+The number of independent rows or columns. ,7,0,answer,TRUE
+N ,1,0,answer,TRUE
+At least one is there,5,0,answer,TRUE
+Minimum one,2,0,answer,TRUE
+yes..sir,1,0,answer,TRUE
+Oh no sir..,3,0,answer,TRUE
+For N order matrix to have N Independent 0 columns are rows,12,0,answer,TRUE
+one..because we have one row with zero's and all the rows are same and all the columns are same,19,0,answer,TRUE
+Because there was a dependence all of yours. ,8,0,answer,TRUE
+"For example, if the 1st row is the all zeros and 2nd row also all zeros. If you multiply with another scale of then. 2nd row will come first so. Both are independent. If we do for all the rows, then all rows will lose 0 zeros on them with 0. ",51,0,answer,TRUE
+NLP. ,1,0,answer,TRUE
+"OK, Sir. ",2,0,answer,TRUE
+"In NLP projects.Similarity measure can be used. Let's say there's a document with a particular set of words and another document with a particular set of words, and you want to take code words that are similar and very common. So in this place and we want to give more weightage to the words that are very unique. so in this place we can use a similarity measure between the two documents and. 
+Find out if the documents are very similar and if they're very similar and we want to take our very common things between the two documents, then we can use the similarity measures between these two documents.   very common. So in this place and we want to give more weightage to the words that are very unique. so in this place we can use a similarity measure between the two documents and. ",145,0,answer,TRUE
+" one similarity measure that I have worked with, well, I would say TFIDF which is term frequency and inverse document frequency. So it takes the document frequency of a particular term within one particular document and the term frequency of the same word in another document and it sees and it compares what is the frequency of the word. And of the frequency of the word in both the documents are relatively higher than its given weightage of 0. Using the formulas of TF and IDF individually and combining them by multiplying the formulas or the output of TF and IDF finally taking out the words which are very common between the two documents and applying the similarity. ",118,3,answer,TRUE
+"I don't know exactly, Sir. Like.",6,0,answer,TRUE
+"I I don't recall. Ohh, cosine should be one of them. Cosine measures was one of the similarity measures that we have. Done, I think Technically, almost a word and a token are almost same, but word token is formed when a particular sentence is broken down into individual words. Is what I would say.",55,2,answer,TRUE
+"No, Sir. Like token, there's a flexibility with tokens. We can actually group few words and call it as one particular token if it is necessary for a particular project or a particular approach in a particular project. So if I want to, if there's a sentence I am sukant and I'm studying in Amrita University, then we can break down the tokens into each individual word. That is I am sukan or the token and each of these individual words can be a particular token or we can also tokenize saying that we want a token to be I am sukant as one token then studying a numerator as one token and In Amrita University, as another token then, you can also group these words and make it as a particular token as well, Sir",136,0,answer,TRUE
+I don't recall so. ,4,0,answer,TRUE
+So let's say you have a log document maybe 20 ,10,0,answer,TRUE
+"OK, Sir. ",2,0,answer,TRUE
+"OK, Sir. ",2,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"OK, Sir. ",2,0,answer,TRUE
+"first, even though there are like, uh, like 10,000 words or even though there's a lot of text content in this, uh, 20 pages that you mentioned, it will have to go under the tokenization and a lot of preprocessing so that they can break down the words and give the words a particular weightage. So if it's a positive word, then a particular weight should be given. And if it's a negative word a particular weight should be given and along with all the text data if there is. If there is a word that is capitalized, then and if it's a negative word, then a different type of wage should be and with that, and if it's a +1 and it is capitalized, so even the case of the word will also play a role in identifying the sentiment analysis. If it's a negative text or a positive text As for the whole document. So tokenization is one of them, and along with that. Sentiment analysis can be done by.Giving the weightages correct. ",175,0,answer,TRUE
+"OK, Sir. ",2,0,answer,TRUE
+ I don't know how well the Java Java programming language has developed in terms of making models and how efficient it is for the deep learning or NLP processing models. But again I think Java would be the alternate alternate language which I would choose after Python.For doing this. ,49,3,answer,TRUE
+Why..I think if we can code in Python then translating that with the coding skills towards Java should not be very difficult and Comparatively difficult to any other languages is what I feel. So maybe Java will be the better option over here. ,43,1,answer,TRUE
+" it is, Sir, it is. It is object oriented language, Sir. ",11,0,answer,TRUE
+"Fine, Sir",2,0,answer,TRUE
+" Like when Java is called an object oriented language because it consists of four properties.One mainly because it encapsulates code in classes.And you can you can use those. Use that code again so it helps in reusability of code rather than repeating the same section of code again and again.Also, there are two other things like there's method overriding and method.Method overriding and method overloading where you can either change the function of the method at runtime or at compile time. You can for the same for one method you can of one for one name of the method. You can add. You can have different functionalities based on the number of parameters given.So that is what I understood from. ",120,3,answer,TRUE
+"So if I write a function in a class, say animal, I can write.OK, I can write eat when there is when there are two parameters that is time and.I can write when there's one parameter that is only when food is available or I can write 2 parameters when there's food and a given time so In the second case, the animal will be ready when the food comes or during that time or whenever it sees food. It can eat food for the first case. ",87,6,answer,TRUE
+"I don't think there would be any limitations because it can perform procedural like interpreted kind of tasks as well.Maybe you can't jump into code, right? You can't jump into code writing without defining a class and a main method. ",40,0,answer,TRUE
+"So C is because you can interact with the. You can understand the machine.Like you can interact with the machine codes better because they're pointers and pointers, so you understand memory allocation and all of those, like a little more detail. Whereas in Java you don't have pointers, so you can't understand how exactly memory is located, or you can't access them with. ",63,1,answer,TRUE
+For system level interaction again. ,5,0,answer,TRUE
+"So we can interact, but it's more of an understanding to build our. It's probably because we want to build our understanding and if there is any other reason, I'm not very Sure of it. ",35,0,answer,TRUE
+"Like a straightforward answer would be when I want to know the center of the data and then I don't need how?I don't need the average of the data, but I want the",33,1,answer,TRUE
+Median is easier. ,3,0,answer,TRUE
+"Because I just have to find. OK, I'll have if the data is sorted then Median is easier because I just have To find the center element.But if it is not sorted mean, will it be easier because I have to I don't have to sort it which will take a lot of time compared to adding and taking the average. ",61,1,answer,TRUE
+So then mean would be easier. ,6,0,answer,TRUE
+"Because sorting takes N log N time in the least case, but taking a sum takes off end time, which is faster than taking a sum. I mean, which is faster than sorting the array. ",35,2,answer,TRUE
+"Sir, it is a basic technique used in NLP natural language processing. It represents text data, Sir, by counting frequency of works. In a document. ",25,0,answer,TRUE
+Yes sir,2,0,answer,TRUE
+Don't know sir,3,0,answer,TRUE
+"So DfT uses complex and assets as basic functions. In cosine functions, results are real valued coefficients. ",17,0,answer,TRUE
+"Applications in yes, Sir. ",4,0,answer,TRUE
+"maybe. No, it's it's a DfT, mainly used in frequency analysis, where comes to cosine. Comes to cosine transform. It is mainly used for compressing images. ",26,1,answer,TRUE
+Yes. ,1,0,answer,TRUE
+"OK, Sir. Ohh OK. ",4,0,answer,TRUE
+ Don't know about this? ,4,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"Sir, cardinality, we said so, yes. So cardinality refers to number of elements in a set, Sir. ",17,0,answer,TRUE
+The cardinality of a Union B. And a intersection B is same. So what do you tell about these two? Sets A&B. ,22,1,answer,TRUE
+"So they are, if they are not common Surrey intersection, if they are not having any common intersection elements, so they are not common. ",24,0,answer,TRUE
+"So dot product cross product we do for the matrix Sir, but dot product we do for the vectors. ",19,0,answer,TRUE
+"So dot prod we will do especially for the each vector by taking one vector from one matrix, another from another matrix. ",22,0,answer,TRUE
+Yes. And also we can do so. ,7,0,answer,TRUE
+So. Both should be same dimensionals. ,6,0,answer,TRUE
+"Convolution. We will have some steps, Sir, like folding, scaling and also shifting to the right words and multiplication additions. ",20,0,answer,TRUE
+"When there is a signal and the request signal if we if we need something signal to be outputted, we take two signals. ",23,1,answer,TRUE
+"For image processing, we especially do for image processing and signal processing. ",12,0,answer,TRUE
+Yeah. OK. ,2,0,answer,TRUE
+Example of convolution..?,3,0,answer,TRUE
+"So we can use. We can use speech. I mean we can use the convolution speech processing, Sir, especially in the domain of. For filtering purpose we can use. ",29,0,answer,TRUE
+Or getting future extraction. ,4,0,answer,TRUE
+Mel frequency. Convolution Mel Mel frequency cepstral coefficients or MFCC stands for,12,0,answer,TRUE
+"Sir, they are especially for boosting the frequency, Sir. If suppose the human can't hear the voice equally, so we can boost the we mean, if the voice is slow, we can boost using. The mail frequency, Sir. ",38,0,answer,TRUE
+"Sir, by using high filters and also if high filter is used to reduce the low filter and increase it to high I mean high frequency Sir it reduces the low frequency. ",32,0,answer,TRUE
+Not MFC but. ,3,0,answer,TRUE
+So I don't know exactly about this. ,7,0,answer,TRUE
+"The spectrogram is a representation of frequencies, a spectral of frequencies. ",11,0,answer,TRUE
+It's like a graph. ,4,0,answer,TRUE
+Use it to represent the frequency so that we can see how much loudness the voice is and also the amplitude we can see. ,24,1,answer,TRUE
+Like using Fourier transform. Or we will be using windowing and then preprocessing. ,13,0,answer,TRUE
+Feature extraction or something? ,4,0,answer,TRUE
+Like getting the amplitude or the intensity from the spectrogram. ,10,0,answer,TRUE
+"Like all the multiple frequency components, we will be plotting with respect to time. ",14,0,answer,TRUE
+Based on amplitude of the speech signal. ,7,0,answer,TRUE
+"Like initially, we'll be plotting the original speech signal and then based on the amplitude. Like, we'll get to know whether the frequency of the speech signal is high at some particular places, or we can even do windowing function where we'll be multiplying two different signals, like one will be the original speech signal and the other one will be a window signal like rectangle or sinusoidal type of signals. And then we'll be getting the output",78,1,answer,TRUE
+"Amplitude.. Like higher, the amplitude is higher the frequency. Maximum displacement will be the frequency of the speed signal. ",19,0,answer,TRUE
+Like at each time interval it differs. ,7,0,answer,TRUE
+Amplitude. ,1,0,answer,TRUE
+Yes sir,2,0,answer,TRUE
+"Like higher the frequency like it corresponds to higher pitch and so even in the amplitude will get to know. Ohh, whether the pitch is high or low",28,0,answer,TRUE
+pitch.. It. Like producing sound. ,5,0,answer,TRUE
+Pitch is related to amplitude or pitch is related to frequency. ,11,0,answer,TRUE
+And even frequency also,4,0,answer,TRUE
+"Speech will be the same, but then frequency intensity like based on the graph it differs like the visualization plot. ",20,0,answer,TRUE
+"Rectangular window and then cosine windowLike in the rectangular window, you can't get and then even Mel frequency MFCC. Also they will be trying that plot. . ",27,0,answer,TRUE
+3. ,1,0,answer,TRUE
+Cosine window or hamming window. ,5,0,answer,TRUE
+Because it has overlapping sequences so that we'll get to know which sequence comes after which one. Like if we do windowing and all we can we can keep track of the signal. ,33,2,answer,TRUE
+"Yeah, we can do.",4,0,answer,TRUE
+"I'm not very sure, Sir. ",5,0,answer,TRUE
+The probability of consuming proxy is 12 by 20. Whereas consuming chips is 8 by 20. ,16,0,answer,TRUE
+"And all, and also these types of problems can be solved using hmm. ",13,0,answer,TRUE
+"Conditional probability is like it measures the likelihood of an event, Sir. Because as you said during sunny, you buy this and during maybe a hot day you buy this. Actually it says that for a particular instant how it's going to occur. OK, suppose you can say that first thing buying less is an event day and something other thing. Buying some other thing is an event B. Then you can describe conditional probability as like B of a intersection B / P of B. ",86,1,answer,TRUE
+Some moral of the story is that we can find the likelihood of event occurring given that. That has already occurred. ,21,0,answer,TRUE
+Yes. Then if it's independent of each other then it will be P of A given B equal to P of A into P of B. ,26,0,answer,TRUE
+"yes sir. P of A intersection B will be P of A into P of B As its independent, they both are having. ",23,0,answer,TRUE
+"So when they are dependent, it will be dependent on intersection. When it's independent, A given B will be just B of A because it's independent of P of B. Then if we take P of B given A, then it will be P of B as it's independent. Of P of A. When they both are dependent on each other, then we can we have to take the intersection. ",70,3,answer,TRUE
+"Mode. Yes, yes. Mean, median mode actually actually mode is we use mode in statistics.actually it says that. The value that appears mostly in the particular that we can say that's the most occurred in the data. ",37,0,answer,TRUE
+"Sir, I don't have exact idea. ",6,0,answer,TRUE
+"It's a function overloading is nothing, but it's a concept where we can have two functions with same name, but it should differ either in number of arguments or type of the argument that's called function overloading. Suppose if you have a function such as int, add of int, a comma, int B, then you can have another function with the same name that is. But it should differ in number of arguments. That's India, including C or otherwise it's. It should differ in type of argument that string a string B like that. That's called function overloading. ",98,1,answer,TRUE
+"Short term Fourier transform, Sir. I know what is Fourier transform. Signal representation from time domain to frequency domain is Fourier transform. Short term Fourier transfer. I'm not so sure so. ",31,1,answer,TRUE
+Helping make it. Show that the frequency component of the signal in a better manner. So by doing the frequency analysis we can get to know various things about the signal. ,31,0,answer,TRUE
+I'm not sure ,3,0,answer,TRUE
+Not sure. ,2,0,answer,TRUE
+So there is a a filter that what you say. Suppose there's a network N cross N so one cross north. Layer is I'm not sure if it's clear. It is slided throughout the 5 + 5 matrix. So yes Sir convolution. I think so happens. ,46,1,answer,TRUE
+Not sure Sir,3,0,answer,TRUE
+So. Dot products are it is like uh. Uh. Not sure how to put in words. ,16,1,answer,TRUE
+"So dot product is like simple multiplication of two things, whereas in convolution we're sliding 1. Thing across so to get an output. ",23,0,answer,TRUE
+"Yeah. Yeah. So in what do you say in convolution? If you're doing linear convolution, if you're convoluting between two different matrices, the length of the maximum length of the output can be. Suppose the length of the first matrix is L1 and 2nd matrix is L2. The maximum length of the output I mean the length of the output will be L1. Yes. No, yeah, LL 2 -. L one plus one. Whereas in if you do circular convolution, the both of the material length have. To be same. Right. And again in dot product, I guess, Sir, it should be same the length of both of them. ",109,1,answer,TRUE
+So dot produces scalar value. ,5,0,answer,TRUE
+"Sir, if you work with work, and I mean. I'm not sure, maybe somewhere it has application in. Electrical engineering, part of what shows. ",24,1,answer,TRUE
+"So stemming is basically chopping it topic screw chopping, Sir. So suppose we have words like running ran. It will be chopped out to run, so we are not losing the information make like make it simpler. Whereas in limitation suppose the words are is am, be. All are chopped off to bee. So it is more computationally intensive and better than standing. ",63,0,answer,TRUE
+"For a single. Yes, Sir. I mean, if you call, you can. ",12,0,answer,TRUE
+I mean. I guess I'm not sure. ,7,0,answer,TRUE
+"Means. So we produce speech from blank, so I guess it's one side length. ",14,0,answer,TRUE
+"So you're saying that if you blow through the top side like, the air will come to the other side, you're saying, Sir?",23,0,question,TRUE
+"OK.Only one side is open through our mouth, so I think that's one side only. ",15,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"So baye's theorem. Basically it is coming down to. It is saying that when when you're taking a probability distribution or probability curve that. The probability the dependencies of the probability, like if you're taking. Uh. Is it if you're having a conditional probability Basically, if A is given so that B is given, you're taking it such that probability of a given B probability of a given B is the probability of a by probability of a divided by probability of B. It's a whatever. It basically talks about you having the knowledge of. And you having the information of the prior event which has occurred so that you can find the probability of the event which is occurring in the future. ",123,4,answer,TRUE
+"So basically probability of. Like I'm being very vague about it, like I'll be able to write as a formula down, but while explaining I'm getting a little vague. So basically it's property of",34,0,answer,TRUE
+"Yeah.So basically when it comes down to it is, you will have probability of. E given A is equal to the probability of the call. E / E divided by probability of the probability of E given a divided by probability of. Probably. If a into probability of a divided by the probability of a. So when you're having two events where one is related to the other, you're taking the probability of two the two independent events dividing it by the probability of the initial event happening. So this way it helps you establish a relation between the chain of events which are occurring. ",105,4,answer,TRUE
+Event A has happened,4,0,answer,TRUE
+"Yeah, because like if A&B are happening are have are, are independent and you're saying that A has happened. So the probability of a happening is already one because it has happened, so it is not going to affect the probability of B happening. Since they are independent events. ",49,0,answer,TRUE
+"In a situation where Sir A has already happened, a will be 100%. ",13,1,answer,TRUE
+"Joint probability of A&B when A&B are independent of each other, so probably the probability of A and probability of B. If I'm not wrong, I might be. ",28,1,answer,TRUE
+"So conditional probability in speech reference that it can be used in multiple ways like I'll give you a few examples which I can come up with right now. One is for when you're having a. Speech. To text models right like the one we are training the. Data for right now. You might not always be able to gather the word which is exactly pronounced, so you're going to use conditional probably to. You have contextual conditions like if I'm saying. Today is a good. The next one is probably going to be day. Because the probability of that occurring is better than today. Is a good. Night or something, right? Right. So you're going to use it to fill in the words which you are ambiguous about or which you're not able to convert back into texts with with 100% surety. ",143,5,answer,TRUE
+Like there can be multiple applications. This is one which I could think of right off the top of my head. ,21,1,answer,TRUE
+"Yes, Sir, and IDF. ",4,0,answer,TRUE
+"The term frequency is basically the frequency of a a particular word occurring in that particular document. That is, the number of number of times that word has occurred in a particular document which we are taking divided by the total number of words in the document. And for idfs, you're taking a set of documents. You set a collection of documents basically, and your call dividing the total number of documents which are there the the log of the total number of documents which are there divided by the number of times the required word is occurring in that document. The term frequency is basically for an individual document, whereas a in what they call the other one IDF is basically for the OR collection of documents where you were looking to find a particular. Word. ",137,5,answer,TRUE
+"Sir. SVM. If you're taking a single vector as a support vector, you can use it as a single class classifier only. But if you are taking multiple support vectors and you are forming a grid with that, you may be able to modify it to use it as multiclass classifiers. It is generally use it for a signal for a binary classifier that is classifying into class. And Class B on the basis of one vector line that is one support vector. But if you are able to have a. Function. Of vectors you might be able to classify data into multiple. Classes as well. Not very efficiently, but yeah.",111,0,answer,TRUE
+"So the margin is basically the. It's basically the deviation between the positive like the what I call the deviation between the highest and the lowest term which is being classified which is being classified incorrectly. If I'm able to simplify it because you will have a band. In which the support vector will not be able to or may not be able to differentiate between two points because it is, it is looking at the bigger picture and it might be able to. It will be classifying point which belongs to say the lower class is in the upper class and the upper class is in the lower class. So the range where this occurs. Is can can we can be categorized as a margin which is the. Margin of error basically. ",133,7,answer,TRUE
+"OK, Sir, Sir. Inheritance is basically, Sir, when you are having a class, let's say. Like inheritance in the common sense of the word is basically when you're inheriting. When you're when you're taking ownership of properties or properties or wealth or whatever you want to consider from your fathers and for fathers. But in the oops paradigm of it, when you're having a class which is defined or. A function which. Is defined and it is performing its. Performing a certain set of tasks, but you're but you're calling that function with a different set of inputs. To augment or to change to augment, or to change the in the the function like the function, the initial the parent function is doing its task as it is, but you're calling it inside a child function where the child function is basically taking in the methods, the inputs and the inputs of the parent. Function and is able to is able to give you the input outputs which the parent function provides and you may be and you will be able to augment it without disturbing the parent function. ",189,8,answer,TRUE
+"Set an example. OK, fine. Right now will be, Sir, if you are. Will like if it is something. So if you're having a, if you're having a function which is basically taking an input and adding it and giving it, giving you a return of the summed value. And you're calling and you're inheriting that function into another class. You're where the inputs are the same, but you're calling the function again, so you are going to take the inputs, which is provided to this new class as the inputs to the original class, and you're returning the sum as the return function for the new class, which is taken. Along with any other new operations which you wish to wish to wish to do on the newer class. For example, you can multiply the two numbers or you can subtract the two numbers and provide it as an additional return. ",152,5,answer,TRUE
+"I might be. I'm not sure. Sir, like the two concepts are in conflicting in. My head as of now. ",20,0,answer,TRUE
+"Sir, it depends on the differences. It is between the architecture, Sir, in convolution neural networks there will be different layers. And the other neural networks will have connected layers. Each network is connect. Each layer is connected to all the different layers. ",43,0,answer,TRUE
+"In CNN, we'll be adding only some of the layers conversation neural network. We'll be adding only some base layers. And in the output layer will be adding software softmax activation function. ",32,0,answer,TRUE
+"So in fully connected layer we can define like each layer is connected to all the different layers. So in computation it takes time whereas it is best for accuracy because each and every layer is connected to each and every layer. Its computation cost will be more. Computation time will be, whereas in CNN layer CNN layers will be less so it CNN. It is easy to perform analysis Sir. ",71,0,answer,TRUE
+"Fully connected only, Sir, because after each in each layer it has to perform processing from that layer only it is going to pass through the other layer because it is connected to each and every layer. The computational cost will be more. ",43,0,answer,TRUE
+"Advantage of CNN is that it gives faster results. No Sir. Like it, it doesn't take more time for processing of epochs. Since it is not connected to all the layers for the processing, it takes less time, Sir. ",39,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"Sir, in deep neural networks. ",5,0,answer,TRUE
+"Sir, since in convolution neural networks there are not much layers, you cannot get more accurate results Sir. ",18,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+Like you are asking for activation function Sir. ,8,0,answer,TRUE
+" Pooling layers. Yes, Sir. In pooling we have maximum and average pooling. That pulling only. ",15,0,answer,TRUE
+"Sir, it is used to to like reduce the dimensions Sir. We will be having different inputs. No Sir. So to reduce the dimensions, we of input features, we use pooling layers Sir in that we have maximum pooling and average pooling. ",42,0,answer,TRUE
+"Of the input features in average pooling, it is going to take the average value of the features",18,0,answer,TRUE
+"A bag of water. Something like. It is a model, Sir, which is used in NLP like we will be retrieving the information from that Sir. Like. How it will be working as first it will be tokenized from that it will be vectorizing Sir. Then there will be representing in the bag of word representation form. ",57,2,answer,TRUE
+So it is like in simple or if you have to say like it is a like it is a model which is used to retrieve information in NLP. OK. ,30,1,answer,TRUE
+Stop words. Is it like the few stop words like the under this in like these are the common words when we try to filter out during the NLP processor. ,30,1,answer,TRUE
+"Like they don't carry a significant meaning, Sir. Like I think like ignoring those words and we'll be continuing the. Process. Sir. ",22,0,answer,TRUE
+So it's a fixed Sir. ,5,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"Like regularization technique like L1 like few regularization type like L1 regularization, L2 regularization. And. Like L1 regularization. What it will be doing is.Uh.Like it will sum up the coefficient and it will equate to 0 Sir, whereas in L2 regularization it will square the magnitude of the coefficient and it will equate to the zero like it will. Sorry it will square and some of the coefficients. ",68,1,answer,TRUE
+"They're bagging is like uh, bootstrap aggregating like. So it is a popular like machine learning techniques Sir. My car. In say I'm sorry so that I'm not sure about it. ",31,0,answer,TRUE
+"Well, I am not sure about that Sir. ",8,0,answer,TRUE
+"Like stochastic. Gradient estimator. Like root mean square property, OK. ",10,0,answer,TRUE
+"The stochastic is. Like it updates the weight in the direction that reduce the loss function, Sir. ",17,0,answer,TRUE
+Like gradient descent is. Updated based on the average gradient of the loss function. ,14,0,answer,TRUE
+"Sir, like the number of independent columns are there in. The matrix, Sir. ",13,0,answer,TRUE
+"It is one, Sir. ",4,0,answer,TRUE
+"Yes, Sir. Sorry two sorry 22. ",6,0,answer,TRUE
+"Sir, like the two columns are independent on each other, Sir. Like if we take a 2 cross two metrics it is a first column will be A10 and 2nd column will be 01. So both are independent. ",38,0,answer,TRUE
+10 by 10 matrix. Also it will become tensor. Then the rank will be 10. ,15,0,answer,TRUE
+Will be positive. It will be greater than 0 so. ,10,0,answer,TRUE
+Such like the number of bases with us means the independent select the column bases or the normalized form of the column vectors. ,23,0,answer,TRUE
+N vectors sir..,3,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+Then we can't build a easy space. ,7,0,answer,TRUE
+So like if the space is more than the basis vectors then it will not be completed now. So like the basis vectors will be less it can't be accommodated in the. Basic space. ,34,0,answer,TRUE
+Then the IT will take the size of the basis in space. The size will be considered. To how many vectors can be accepted? It will take that. ,28,1,answer,TRUE
+"That like it will convert a time domain to the frequency domain, so it's not a signal. ",17,0,answer,TRUE
+Yeah. And also it will be easier to. It analyzes the signal in a frequency domains. ,16,0,answer,TRUE
+Frequency domain. ,2,0,answer,TRUE
+Sir like... Analyzing the signals. ,5,0,answer,TRUE
+Will be getting accurate. Sir. Like we will be getting an accurate plot of the signal when it is in a we can see. Domains. I'm back to the time domain. ,31,1,answer,TRUE
+I said. The time frequency resolution will be limited. ,9,0,answer,TRUE
+"Uh, like the in time domain, it will be very limited, so like we. Can plot the. Signal up to a limited range only. ",24,0,answer,TRUE
+"So, like we don't get the exact plot of the signal, Sir. Like we may miss some parts of the signal. ",21,0,answer,TRUE
+Where it can't take it can't take frequency and time domain simultaneously.,12,1,answer,TRUE
+Frequency and time domain simultaneously. It is. ,7,0,answer,TRUE
+It can't simultaneously get the give both time and frequency. I I I don't get,15,0,answer,TRUE
+It is important when we do acepstrum  analysis. These are applications of cepstrum analysis. ,14,1,answer,TRUE
+"The cepstrum  is. That one is done. It is spectrum. Spectrum. It is basically spectrum. It is all the spectrum. After analyzing the signal, it gives it from. I mean after analyzing spectrum it does it. ",36,0,answer,TRUE
+Yes. ,1,0,answer,TRUE
+"OK. We deal with cepstrum , Sir. ",7,0,answer,TRUE
+"Spectrum is not like nothing wrong with spectrum, but spectrum is an analyzed signal of spectrum where we. We have proper noise there, sorry. Where we have proper values ",29,2,answer,TRUE
+"We can use an FCC, but it's. Where we can have filter bank. Which can filter the signal. If you design something we, if we want to remove the noises, we can. ",32,2,answer,TRUE
+Yes Sir. Using DF in in MFCC only using DfT using filter bank. ,13,0,answer,TRUE
+yes sir,2,0,answer,TRUE
+Filter bank. ,2,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+NLP sir,2,0,answer,TRUE
+"How about we studied about the text And what how Google will give the auto correct and auto suggestions, Of the auto auto suggestion of the things we type. Like for example. ",32,3,answer,TRUE
+"If you type anything, you are automatically. Suggestion please. ",9,0,answer,TRUE
+No idea sir..,3,0,answer,TRUE
+Here TF is term frequency. And IDF is nearst document frequency. ,11,0,answer,TRUE
+"So basically, F measures how frequently the term will appear in a document. And in idea it measures how important entire document collection. ",23,2,answer,TRUE
+So basically it's used for extract important features one. Speech translator. ,11,0,answer,TRUE
+So. It's it's using NLP sir bag of words,9,0,answer,TRUE
+"Yeah.He said he gave a. Long information in text data. OK, will receive the information. So basically there are some. ",20,0,answer,TRUE
+And this is a. Very it is a simple and effective way to represent the text data. Like classification.. ,19,0,answer,TRUE
+Actually I don't have much. Idea about that,8,0,answer,TRUE
+probability.,1,0,answer,TRUE
+"Yes, Sir. Conditional probability. ",4,0,answer,TRUE
+"Sir, when an event is given and we're trying to calculate the next occurrence of the next event given that one event has already occurred, that is conditional probability. ",29,1,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+So then it will be 0. ,6,0,answer,TRUE
+So the probability of the first event occurring after second event will be zero because they're. ,16,0,answer,TRUE
+Then it will be zero..,5,0,answer,TRUE
+Yes. ,1,0,answer,TRUE
+Yes. ,1,0,answer,TRUE
+"Markov saying basically is when we have a sequence of events. When we try to compute the probability of the sequences, we use Markov chain. So one event depends the probability of the occurrence of one event depends only on the previous. Event. And not all the events, it's just the immediate. Previous event so that is Markov. ",58,2,answer,TRUE
+So this is first order Markov chain. Like what I. ,10,1,answer,TRUE
+"Like first order, Markov chain is where it depends on your the immediate previous state and Markov chains like N number of previous. ",23,1,answer,TRUE
+It's a Fourier transform. Is like an operation like kind of an operation that helps us convert. Signals from like. The time domain to the frequency domain. ,27,0,answer,TRUE
+"So because in time domain, what we can analyze from the signals is only loudness, but converting it to a frequency domain or like converting it to a spectrum helps us analyze better when it comes. To signals. ",38,2,answer,TRUE
+"So because when we have a spectrum, a spectrum is basically frequency over. I mean there are frequency components in the spectrum. It's it's basically in the frequency domain, so. We we can get different other values like parameters that can help us analyze not only loudness. ",47,1,answer,TRUE
+Fourier transform. So basically I would say that it's like a very specific thing like when we have Laplace transform that can convert time domain to any other. Domain like it's. It can only convert a frequency domain I think. ,40,1,answer,TRUE
+"It's a short time Fourier transform is what we apply on very small frames and in short time Fourier transform. The assumption is that the components are stationary because we we take very small time slots, so it's assumed that the components are stationary at a given particular time. That this is short time for transform, but Fourier transform is applied on the complete signal. ",65,1,answer,TRUE
+"A short time Fourier transform is more efficient. No. So computationally I think Fourier transform because there's no breaking down of segments and all. It's just directly applying. On the full signal, that's why. ",34,0,answer,TRUE
+Yes. ,1,0,answer,TRUE
+Yes. ,1,0,answer,TRUE
+"So when we analyze the full signal at once and like when we talk about speech, it's like a container signal. It's very hard to like apply for like we consider it to be an infinite it of infinite length, so it's very hard for us to apply like Fourier transform to the full sequence. That's why we divide it into. Frames. And analyze and that to survive is the speech signal is not stationary, it keeps changing. So it's very hard to apply Fourier transform directly",87,3,answer,TRUE
+That is like one of the reason also because it's we we considered to be infinitely long. So it's very hard to apply Fourier transform on the whole signal at once and it it's hard to analyze. Also when you have such large amount of data and like all at once. ,51,1,answer,TRUE
+"Yes, and neurons. But yeah, neurons. ",6,0,answer,TRUE
+"Sir, the neuron, like one neuron alone, cannot do because like one neuron has inputs and it gives us. An output but. Many, Sir, if we talk about like a simple function like XOR itself, a single neuron cannot perform. So when we have like when we talk about real world scenarios the. Tasks at hand are very huge, so one neuron alone cannot. But when we use a combination of neurons like a network, then we can. Apply them for. ",81,3,answer,TRUE
+"So. Yes, Sir, neuron. So one thing is only very simple functions. Very extremely simple functions can be performed by a neuron, but network can perform like huge tasks like classification itself. And a neuron, Maybe a neuron works only for like a single linear boundary. But when we use a combination of neurons, which is like a network, we can create very complex boundaries. Like curves also. ",68,2,answer,TRUE
+"So. If you want to find out two vectors are independent or not, we will take a dot product of that and if the dot product is zero, we say. Two vectors are independent. ",34,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+Uh. Not sure Sir. ,4,0,answer,TRUE
+"Sir, if in the in the context of speaking classification, I guess if the vectors are aligned aligned at 90° which which we consider as independent, then I would say yes Sir. Yes, if the for the classifications the vectors needs to be independent. ",44,2,answer,TRUE
+"As far as I know it's it is. It is widely used in machine learning algorithms to optimize it. I I'm not, I don't have any insight informations about it. ",30,0,answer,TRUE
+"Yes, Sir. ",2,0,answer,TRUE
+"Support vector machines we would use when we have a proper labeled data set where the features are labeled to some classes and in the assumption coming to the assumptions part. I guess. We consider the. Really not sure about that assumption, but Sir. ",44,2,answer,TRUE
+"My logic is that whenever we have a slash in or A/T which I consider as white space or a tab, I would say or or even a dot or even a dot I would I would based upon those posed upon those parameters, I would split the sentences. ",49,1,answer,TRUE
+"This might fail if we have some something like Doctor dot Peta Basa pati where Doctor is where dot is, where where whatever I told is is the whole name and it is. It is your designation. But this fails because it will consider. Not as a dot as the end of a sentence, and it will fit your. ",59,4,answer,TRUE
+Yeah. ,1,0,answer,TRUE
+"Yes, yes. Yes, Sir, it might fail. ",7,0,answer,TRUE
+"So basically, to give you an idea of that we we very well know that the surrounded by particles or molecules that we call and in air what will happen if we speakers when. Speak the the vibrations from our local cart passes out, passes out into our vocal cavity and and it is getting articulated by the by our tongue where the different different waves of pressures, high pressure and low pressures are created in the. Created in the medium which is which passes which get passed because the highest of the high pressure points are called the highs and the low pressure calls are called tough. Those will get those will get. It's like a chain reaction and it will vibrate the other molecule and the other molecule. It trickles the other one and it in such a way it reaches the listener and in listener side the same sound is proper. It perceived in the same same way as the series of vibrations. ",166,5,answer,TRUE
+High centers by your your ear drum and new and then you run does the work. Then to perceive the sound. ,21,0,answer,TRUE
+"Yes, Sir. It is. We are surrounded by air and it is through airway and but if you are speaking through the yeah, yes it is. It is Airways, it is Airways. It is based upon airway propagation. ",38,0,answer,TRUE
+"No, Sir, we won't be able to speak. We would be able to speak if we have special devices which transmits the electromagnetic wave like a telephone or a like a like a walkie-talkie or something. ",36,1,answer,TRUE
+"Yes, Sir. Yes, yes, Sir. ",5,0,answer,TRUE
+"Yes, surely I would be able to make it make the difference out of it for let's say if you take a verbal verbals used to have high frequency and low energy and verbals, duration is considerably time duration is larger than that of consonants. That's how we differentiate. May the differentiate using the using the spectrum of the wave of waveform. ",62,1,answer,TRUE
